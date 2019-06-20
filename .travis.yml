@@ -8,6 +8,7 @@ script:
   - yarn build
 after_success:
   - cd dist
+  - echo 'blog.xhzyxed.cn' > CNAME
   - git init
   - git config --global user.name "${U_NAME}"
   - git config --global user.email "${U_EMAIL}"
