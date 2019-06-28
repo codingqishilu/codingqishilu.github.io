@@ -90,6 +90,7 @@ module.exports = {
           title: 'Docker',
           collapsable: true,
           children: [
+              'docker/drone-gitflow-kubernetes-for-cloud-native-ci'
           ]
         },
         {
@@ -194,6 +195,7 @@ module.exports = {
           title: '数据分析',
           collapsable: true,
           children: [
+              'data/有关数据采集分析挖掘的博客'
           ]
         },
         {
