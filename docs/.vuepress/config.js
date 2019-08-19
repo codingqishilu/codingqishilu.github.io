@@ -50,6 +50,7 @@ module.exports = {
             'php/php-cs-fixer',
             'php/walle',
             'php/sourceandext',
+            'php/laravel-tdd-forums'
           ]
         },
         {
@@ -90,7 +91,8 @@ module.exports = {
           title: 'Docker',
           collapsable: true,
           children: [
-              'docker/drone-gitflow-kubernetes-for-cloud-native-ci'
+              'docker/drone-gitflow-kubernetes-for-cloud-native-ci',
+              'docker/containerEcosystem'
           ]
         },
         {
@@ -128,11 +130,7 @@ module.exports = {
           title: 'Swoole',
           collapsable: true,
           children: [
-            'swoole/前言',
-            'swoole/简介',
-            'swoole/安装',
-            'swoole/server跟client',
-            'swoole/swoole进程模型'
+            'swoole/swoole-learn-cource',
           ]
         },
         {
@@ -162,6 +160,7 @@ module.exports = {
           title: 'Vue',
           collapsable: true,
           children: [
+              'vue/laravel-vue'
           ]
         },
       ],
