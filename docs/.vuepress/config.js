@@ -8,6 +8,8 @@ module.exports = {
       { text: '专业', link: '/main/' },
       { text: '第二技能', link: '/second/' },
       { text: '阅读', link: '/readporn/' },
+      { text: '自说自话', link: '/zishuozihua/' },
+      { text: '远程', link: '/remote/' },
       { text: '关于我', link: 'https://github.com/shisiying' },
 
     ],
@@ -50,7 +52,8 @@ module.exports = {
             'php/php-cs-fixer',
             'php/walle',
             'php/sourceandext',
-            'php/laravel-tdd-forums'
+            'php/laravel-tdd-forums',
+              'php/xdebug'
           ]
         },
         {
