@@ -53,7 +53,8 @@ module.exports = {
             'php/walle',
             'php/sourceandext',
             'php/laravel-tdd-forums',
-              'php/xdebug'
+            'php/xdebug',
+            'php/phpunit'
           ]
         },
         {
