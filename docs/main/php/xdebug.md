@@ -121,8 +121,7 @@ Double subscripts: use braces to clarify_SERVER['REMOTE_ADDR']变量以找出要
 
 ![UTOOLS1575603716626.png](https://i.loli.net/2019/12/06/lC1nOw5bN4LuWkT.png)
 
-![UTOOLS1575603784680.png](https://i.loli.net/2019/12/06/cPET4yV6kWftF8U.png)
-
+![UTOOLS1575615454356.png](https://i.loli.net/2019/12/06/vtSUhc6Qb38kEzB.png)
 
 - 关于phpstorm xdebug的使用按钮说明
 
